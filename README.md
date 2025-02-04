@@ -9,7 +9,7 @@
 
 ## To run the project 
 
--composer install
+- composer install
 -npm install
 -cp .env.example .env
 -php artisan key:generate
@@ -19,7 +19,7 @@
 -php artisan serve
 -npm run dev
 
-- -composer install
+- composer install
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
