@@ -18,6 +18,7 @@
 - php artisan storage:link
 - php artisan serve
 - npm run dev
+
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
