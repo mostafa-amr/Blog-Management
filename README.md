@@ -20,6 +20,7 @@
 - npm run dev
 
 email and password
+
 admin@blog.com (password)
 author@blog.com (password)
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
