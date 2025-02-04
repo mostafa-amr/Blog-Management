@@ -18,6 +18,7 @@
 - php artisan storage:link
 - php artisan serve
 - npm run dev
+
 email and password
 admin@blog.com (password)
 author@blog.com (password)
