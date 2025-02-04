@@ -18,7 +18,7 @@
 - php artisan storage:link
 - php artisan serve
 - npm run dev
-
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
@@ -27,7 +27,7 @@
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
 
 ## Learning Laravel
 
